@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## 不错 自己学 其实也是可以的  还是要用心一些 才行的
+
 
 You can use the [editor on GitHub](https://github.com/FirstLight0/easyh5/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
